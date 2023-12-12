@@ -21,7 +21,7 @@
 </div>
 
 ---
-- 🔭 I am presently developing an interactive web application that allows you to inquire about the weather in any location across the globe.
+- 🔭 I am presently developing an interactive mobile application that can aid in tracking your sleep.
 - 🌱 I’m currently re-learning HTML, CSS, and JavaScript and learning React.
 - 👯 I’m looking to collaborate on anything related to designing interactive web applications.
 - 🤔 I'm seeking assistance with web development as I embark on a serious endeavor to become a full-stack web developer, starting with frontend development. Any tips or advice would be highly appreciated.
@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I once jumped from a 50-foot waterfall.
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python3" alt="Python3" width="40" height="40"/>&nbsp;
@@ -46,16 +46,6 @@
 </div>
 
 ---
-### :fire: My Stats :
+### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Collins-kariuk&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-kariuk)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
