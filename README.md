@@ -17,8 +17,11 @@
 ### Hi there 👋 My name is Collins Munene Kariuki.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" height="100"/>
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)
+
 
 ---
 - 🔭 I am presently developing an interactive mobile application that can aid in tracking your sleep.
