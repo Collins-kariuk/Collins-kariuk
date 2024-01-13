@@ -48,5 +48,6 @@
 ---
 ### 🔥 My Stats:
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Collins-kariuk&theme=dark&background=000000)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Collins-kariuk&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Collins-kariuk&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Collins-kariuk&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-kariuk)](https://github.com/anuraghazra/github-readme-stats)
