@@ -21,11 +21,10 @@
 
 
 ---
-- 🔭 I am presently developing an interactive mobile application that can aid in tracking your sleep.
+- 🔭 As a means to start my journey in Android development, I am currently developing a Countdown mobile app.
 - 🌱 I’m currently learning Kotlin for Android development with Jetpack Compose.
 - 👯 I’m looking to collaborate on anything related to designing interactive Android mobile applications.
 - 🤔 I'm seeking assistance with mobile app development. Any tips or advice would be highly appreciated.
-- 💬 Ask me about any topic in Quantum Physics.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/collins-kariuki/)
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I once jumped from a 50-foot waterfall.
