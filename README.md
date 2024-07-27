@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="150"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Howdyy!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/collins-kariuki/">
