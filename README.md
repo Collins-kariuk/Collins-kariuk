@@ -1,26 +1,34 @@
+<!-- The "Hello there" greeting -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Hello%20There%20😁&animation=fadeIn&textBg=false&fontAlign=45&fontAlignY=39"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Hello%20there%20😁&animation=fadeIn&textBg=false&fontAlign=45&fontAlignY=39"/>
 </p>
 
+<!-- LinkedIn badge that redirects to my official LinkedIn profile -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/collins-kariuki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-
+<!-- The profile views button -->
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Collins-kariuk&style=flat-square&color=blue" alt=""/>
 </div>
 
-
 ### Hi there 👋 My name is Collins Munene Kariuki.
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)
-
+<h1 align="center">
+  Vibe with me a bit!🎧
+  <a><i style="font-size: 20px" class="bx bx-tada-hover">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ttmzqsihnt274armtmwpzstieu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" align="middle"></img>
+                    </i>
+                  </a>
+</h1>
 
 ---
+
 - 🔭 As a means to start my journey in Android development, I am currently developing a Countdown mobile app.
 - 🌱 I’m currently learning Kotlin for Android development with Jetpack Compose.
 - 👯 I’m looking to collaborate on anything related to designing interactive Android mobile applications.
@@ -30,6 +38,7 @@
 - ⚡ Fun fact: I once jumped from a 50-foot waterfall.
 
 ---
+
 ### 🛠️ Languages and Tools:
 
 <div>
@@ -45,8 +54,13 @@
 </div>
 
 ---
+
 ### 🔥 My Stats:
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Collins-kariuk&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Collins-kariuk&theme=dark)](https://git.io/streak-stats)
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Collins-kariuk&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-kariuk)](https://github.com/anuraghazra/github-readme-stats)
