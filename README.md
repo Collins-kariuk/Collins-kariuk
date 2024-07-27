@@ -55,17 +55,21 @@
 <table>
   <tr>
     <td>
+    <!-- GitHub streak stats -->
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Collins-kariuk&theme=dark" alt="GitHub Streak">
       </a>
     </td>
     <td>
+    <!-- GitHub top language stats -->
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-kariuk" alt="Top Languages">
       </a>
     </td>
   </tr>
 </table>
+
+![Overall profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranklineMisango&theme=algolia">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
