@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Howdyy!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Hello%20There%20😁&animation=fadeIn&textBg=false&fontAlign=45&fontAlignY=39🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <div id="badges" align="center">
