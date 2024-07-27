@@ -17,12 +17,10 @@
 
 ### Hi there 👋 My name is Collins Munene Kariuki.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)
-
 <h1 align="center">
-  Vibe with me a bit!🎧
+  What is Collins listening to?!🎧
   <a><i style="font-size: 20px" class="bx bx-tada-hover">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ttmzqsihnt274armtmwpzstieu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" align="middle"></img>
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)" align="middle"></img>
                     </i>
                   </a>
 </h1>
