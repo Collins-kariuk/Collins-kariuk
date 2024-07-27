@@ -19,7 +19,7 @@
 
 <!-- Spotify current listen -->
 <h1 align="center">
-  What is Collins listening to?!🎧
+  What is Collins listening to?🎧
   <a><i style="font-size: 10px" class="bx bx-tada-hover">
                     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)" align="middle"></img>
                     </i>
@@ -52,11 +52,23 @@
 ---
 
 ### 🔥 My Stats:
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Collins-kariuk&theme=dark" alt="GitHub Streak">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-kariuk" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Collins-kariuk&theme=dark&background=000000)](https://git.io/streak-stats) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Collins-kariuk&theme=dark)](https://git.io/streak-stats)
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Collins-kariuk&theme=transparent&hide_border=true)](https://git.io/streak-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collins-kariuk)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranklineMisango&theme=algolia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FranklineMisango&theme=algolia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FranklineMisango&theme=algolia">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FranklineMisango&theme=algolia"> -->
