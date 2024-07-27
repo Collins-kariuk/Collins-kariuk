@@ -17,6 +17,7 @@
 
 ### Hi there 👋 My name is Collins Munene Kariuki.
 
+<!-- Spotify current listen -->
 <h1 align="center">
   What is Collins listening to?!🎧
   <a><i style="font-size: 10px" class="bx bx-tada-hover">
@@ -27,13 +28,10 @@
 
 ---
 
-- 🔭 As a means to start my journey in Android development, I am currently developing a Countdown mobile app.
-- 🌱 I’m currently learning Kotlin for Android development with Jetpack Compose.
+- 🔭 I am starting my journey into mobile app development by creating a simple countdown timer app to familiarize myself with basic concepts.
+- 🌱 I’m learning Kotlin for Android development with Jetpack Compose.
 - 👯 I’m looking to collaborate on anything related to designing interactive Android mobile applications.
-- 🤔 I'm seeking assistance with mobile app development. Any tips or advice would be highly appreciated.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/collins-kariuki/)
-- 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: I once jumped from a 50-foot waterfall.
 
 ---
 
