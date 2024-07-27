@@ -17,17 +17,6 @@
 
 ### Hi there 👋 My name is Collins Munene Kariuki.
 
-<!-- Spotify current listen -->
-<h1 align="center">
-  What is Collins listening to?🎧
-  <a><i style="font-size: 10px" class="bx bx-tada-hover">
-                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)" align="middle"></img>
-                    </i>
-                  </a>
-</h1>
-
----
-
 - 🔭 I am starting my journey into mobile app development by creating a simple countdown timer app to familiarize myself with basic concepts.
 - 🌱 I’m learning Kotlin for Android development with Jetpack Compose.
 - 👯 I’m looking to collaborate on anything related to designing interactive Android mobile applications.
@@ -74,3 +63,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Collins-kariuk&theme=algolia&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Collins-kariuk&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Collins-kariuk&theme=algolia)
+
+<!-- Spotify current listen -->
+<h1 align="center">
+  What is Collins listening to?🎧
+  <a><i style="font-size: 10px" class="bx bx-tada-hover">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bkls5hbbhstqeyes0l3tl9l9s&redirect=true)" align="middle"></img>
+                    </i>
+                  </a>
+</h1>
