@@ -69,7 +69,8 @@
   </tr>
 </table>
 
-![Overall profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Collins-kariuk=vn7n24fzkq&theme=default)
+<!-- ![Overall profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Collins-kariuk=vn7n24fzkq&theme=default) -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Collins-kariuk=vn7n24fzkq&theme=default">
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranklineMisango&theme=algolia">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FranklineMisango&theme=algolia">
