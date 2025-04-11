@@ -17,9 +17,8 @@
 
 ### Hi there 👋 My name is Collins Munene Kariuki.
 
-- 🔭 I am starting my journey into mobile app development by creating a simple countdown timer app to familiarize myself with basic concepts.
-- 🌱 I’m learning Kotlin for Android development with Jetpack Compose.
-- 👯 I’m looking to collaborate on anything related to designing interactive Android mobile applications.
+- 🔭 I am continuing my journey in web app development.
+- 🌱 I’m learning PHP using the Yii2 framework.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/collins-kariuki/)
 
 ---
